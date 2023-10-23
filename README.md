@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rayna-codes
-- 👀 I’m interested in ... fron-end web development.
-- 🌱 I’m currently learning ... html/css and ruby.
+- 👀 I’m interested in ... front-end web development.
+- 🌱 I’m currently learning ... html/css and python.
 - 💞️ I’m looking to collaborate on ... open source projects to sharpen my skills.
 - 📫 How to reach me ... rayna.codes@gmail.com
 
